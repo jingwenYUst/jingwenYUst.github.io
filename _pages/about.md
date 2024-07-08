@@ -11,7 +11,7 @@ Hi there, I am Jingwen YU (于靖文), a Ph.D. candidate at [CKSRI](https://ri.h
 
 News
 ======
-- [Jun/30/2024]: :tada::tada: A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024.
+- [Jun/30/2024]: 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024.
 
 Education
 ======
