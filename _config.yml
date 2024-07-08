@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Jingwen YU"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate of Robotics Institute @HKUST and Shenzhen Key Laboratory of Robotics and Computer Vision Lab @SUSTech"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/jarvisyjw"
+  github           : "jarvisyjw"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
