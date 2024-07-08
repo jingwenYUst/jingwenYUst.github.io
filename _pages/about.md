@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I am Jingwen YU (中文名：于靖文), a Ph.D. candidate at [CKSRI](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robototics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://eee.sustech.edu.cn/?view=%E5%BC%A0%E5%AE%8F&jsid=18&lang=en). In the meantime, I work closely with [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), [Mr. Chao TANG](https://mkt1412.github.io/).
+Hi there, I am Jingwen YU (中文名：于靖文), a Ph.D. candidate at [CKSRI](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robototics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://eee.sustech.edu.cn/?view=%E5%BC%A0%E5%AE%8F&jsid=18&lang=en). In the meantime, I work closely with [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), and [Mr. Chao TANG](https://mkt1412.github.io/).
 
 I hope to teach robots to localize themsleves in changing environments with interests in :
 - Visual Place Recognition (Loop Closure Detection)
@@ -33,6 +33,22 @@ Education
 
 - National University of Singapore, Jun - Aug, 2019
   - Undergraduate Visiting Student
+
+Publication:
+======
+Full publication list is available on [google scholar](https://scholar.google.com/citations?user=fu52r0cAAAAJ&hl=zh-CN).
+
+Loop Closure Detection / Place Recognition
+1. GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection. (IROS 2024)
+
+Jingwen Yu, Hanjing Ye, Jianhao Jiao, Ping Tan, Hong Zhang$^*$.
+
+2. Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder. (Robotica)
+
+Hanjing Ye, Weinan Chen, **Jingwen Yu**, Li He, Yisheng Guan, Hong Zhang$^*$.
+
+
+
 
 Academic Services
 ======
