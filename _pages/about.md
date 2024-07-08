@@ -13,6 +13,7 @@ I hope to teach robots to localize themsleves in changing environments with inte
 - Visual Place Recognition (Loop Closure Detection)
 - Visual Localization and Image Matching
 - SLAM
+
 Reach out if you want to do research with me!
 
 News
