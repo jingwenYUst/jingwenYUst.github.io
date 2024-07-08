@@ -14,9 +14,9 @@ My research interests lies in robotics:
 
 News
 ======
-- [Jun/30/2024]: 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024.
+- *Jun/30/2024* : 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024.
 
-- [Apr/12/2024]: Our dataset work [FusionPortableV2](https://arxiv.org/abs/2404.08563) is released on arxiv! Check out our [website](https://fusionportable.github.io/dataset/fusionportable_v2/) see how can FPV2 boost your research toward Generalized SLAM.
+- *Apr/12/2024* : Our dataset work [FusionPortableV2](https://arxiv.org/abs/2404.08563) is released on arxiv! Check out our [website](https://fusionportable.github.io/dataset/fusionportable_v2/) see how can FPV2 boost your research toward Generalized SLAM.
 
 Education
 ======
