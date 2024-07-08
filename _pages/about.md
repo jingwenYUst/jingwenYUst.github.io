@@ -9,6 +9,9 @@ redirect_from:
 
 Hi there, I am Jingwen YU (于靖文), a Ph.D. candidate at [CKSRI](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robototics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://eee.sustech.edu.cn/?view=%E5%BC%A0%E5%AE%8F&jsid=18&lang=en). In the meantime, I work closely with [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), [Mr. Chao TANG](https://mkt1412.github.io/).
 
+My research interests lies in robotics:
+- Visual Loop Closure Detection (Visual Place Recognition)
+
 News
 ======
 - [Jun/30/2024]: 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024.
