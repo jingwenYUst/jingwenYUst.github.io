@@ -40,12 +40,10 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 Loop Closure Detection / Place Recognition
 1. GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection. (IROS 2024)
-
-Jingwen Yu, Hanjing Ye, Jianhao Jiao, Ping Tan, Hong Zhang$^*$.
+  Jingwen Yu, Hanjing Ye, Jianhao Jiao, Ping Tan, Hong Zhang$^*$.
 
 2. Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder. (Robotica)
-
-Hanjing Ye, Weinan Chen, **Jingwen Yu**, Li He, Yisheng Guan, Hong Zhang$^*$.
+  Hanjing Ye, Weinan Chen, **Jingwen Yu**, Li He, Yisheng Guan, Hong Zhang$^*$.
 
 
 
