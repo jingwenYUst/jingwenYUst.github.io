@@ -22,11 +22,11 @@ repository               : "jingwenYUst/jingwenYUst.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.jpg"
-  name             : "Jingwen YU"
+  name             : "Jingwen YU（于靖文）"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate of Robotics Institute @HKUST and Shenzhen Key Laboratory of Robotics and Computer Vision Lab @SUSTech"
+  bio              : "Ph.D. Candidate of Robotics Institute @HKUST and Shenzhen Key Laboratory of Robototics and Computer Vision Lab @SUSTech"
   location         : # ""
-  employer         : "Hong Kong University of Science and Technology"
+  employer         : "Hong Kong SAR, China"
   uri              : # URL
   email            : "jyubt@connect.ust.hk" 
 
