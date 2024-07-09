@@ -22,6 +22,7 @@ Sep. 2021 – Aug. 2022 (HKUST)
 (Core Participator) This project aims at deploying a quadrupedal robot for indoor “last mile” delivery in col- laboration with an autonomous logistic vehicle on the HKUST campus. I implemented an indoor LIDAR-inertial localization system on a quadrupedal robot (Unitree A1). Real-world experiments have been conducted in the Cheng Yu Tung Building (CYT) and Robotics Institute (RI) of HKUST.
 <div style="text-align: center;">
 <img src="../images/mapping_cyt.gif" alt="Sample Image" width="500">
+<figcaption>Shot at 2nd floor of CYT Building, HKUST</figcaption>
 </div>
 
 
