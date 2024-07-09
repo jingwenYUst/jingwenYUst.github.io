@@ -9,12 +9,14 @@ redirect_from:
 
 Hi there, I am Jingwen YU (中文名：于靖文), a Ph.D. candidate at [CKSRI](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robototics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://eee.sustech.edu.cn/?view=%E5%BC%A0%E5%AE%8F&jsid=18&lang=en). In the meantime, I work closely with [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), and [Mr. Chao TANG](https://mkt1412.github.io/).
 
-I hope to teach robots to localize themsleves in changing environments with interests in :
+I teach robots to **locate** themsleves in changing environments with focuses on:
 - Visual Place Recognition (Loop Closure Detection)
-- Visual Localization and Image Matching
-- SLAM
+- Visual Localization and Image Matching under changing environments
+- Lifelong SLAM
 
-Reach out if you want to do research with me!
+Besides, I have experiences working on autonomous vechilces, quadruped robots, and task-oriented grasping, check out my projects for more.
+
+Reach out if you are interested in my research!
 
 News
 ======
@@ -24,66 +26,84 @@ News
 
 Education
 ======
-- Hong Kong University of Science and Technology, 2021-present
+- Hong Kong University of Science and Technology, Sep, 2021-present
   - Ph.D. Candidate in Electronic and Computer Engineering
 
-- Southern University of Science and Technology, 2017-2021
+- Southern University of Science and Technology, Sep, 2017- Jun, 2021
   - B.Eng. in Electronic and Electrical Engineering (with Magna Cum Laude)
   - National Scholarship of China
 
-- National University of Singapore, Jun - Aug, 2019
+- National University of Singapore, Jun, 2019 - Aug, 2019
   - Undergraduate Visiting Student
 
-Publication:
+
+Selected Publication:
 ======
 Full publication list is available on [google scholar](https://scholar.google.com/citations?user=fu52r0cAAAAJ&hl=zh-CN).
 
-Loop Closure Detection / Place Recognition
-1. GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection. (IROS 2024)
-  Jingwen Yu, Hanjing Ye, Jianhao Jiao, Ping Tan, Hong Zhang$^*$.
-
-2. Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder. (Robotica)
-  Hanjing Ye, Weinan Chen, **Jingwen Yu**, Li He, Yisheng Guan, Hong Zhang$^*$.
-
-
-
+<html>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/gvbench.jpg" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection
+                </papertitle>
+              <br>
+                <strong>Jingwen Yu</strong>, Yu, Hanjing Ye, Jianhao Jiao, Ping Tan, Hong Zhang
+              <br>
+              <em>IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.</em><br>
+              <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
+              <!-- <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a> -->
+              <a href="https://github.com/jarvisyjw/GV-Bench"><img alt="Code" src="https://img.shields.io/github/stars/jarvisyjw/GV-Bench" /></a>
+              <!-- <a href="https://youtu.be/VtQGvuDZSec"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a> -->
+              <!-- <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+        <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+          <img src="../images/fpv2.png" alt="hpp" style="border-style: none" >
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <papertitle>FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments
+            </papertitle>
+          <br>
+            Hexiang Wei, Jianhao Jiao, Xiangcheng Hu, <strong>Jingwen Yu</strong>, Xupeng Xie, Jin Wu, Yilong Zhu, Yuxuan Liu, Lujia Wang, Ming Liu
+          <br>
+          <em>Under Review</em><br>
+          <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
+          <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
+          <a href="https://github.com/fusionportable"><img alt="Code" src="https://img.shields.io/github/stars/fusionportable"></a>
+          <a href="https://fusionportable.github.io/dataset/fusionportable_v2/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
+          <!-- <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
+        </td>
+      </tr>
+    </table>
+      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+          <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <img src="../images/grasping.png" alt="hpp" style="border-style: none" >
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <papertitle>Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks
+              </papertitle>
+            <br>
+              Chao Tang, <strong>Jingwen Yu</strong>, Weinan Chen, Bingyi Xia, Hong Zhang
+            <br>
+            <em>Under Review</em><br>
+            <a href="https://ieeexplore.ieee.org/abstract/document/9981960">Paper</a>
+            <!-- <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a> -->
+            <!-- <a href="https://github.com/fusionportable"><img alt="Code" src="https://img.shields.io/github/stars/fusionportable"></a> -->
+            <a href="https://docs.google.com/presentation/d/10UzGuVYANGRN6nSMplZWPKoEPs4NUu-XantlLYUSQsg/edit#slide=id.g14b6bc499f4_4_35">Slides</a>
+            <a href="https://drive.google.com/file/d/1wL3XmJt_-VYIq7cO1lMo0I09TyBVkuGw/view">Video</a>
+          </td>
+        </tr>
+    </table>
+</html>
 
 Academic Services
 ======
 Reviewer of IV 2022, IV 2023, ICRA 2024, IROS 2024
-
-
-
-<!-- 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
