@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I am Jingwen YU (中文名：于靖文), a Ph.D. candidate at [Cheng Kar-Shun Robotics Institute (CKSRI)](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robototics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://eee.sustech.edu.cn/?view=%E5%BC%A0%E5%AE%8F&jsid=18&lang=en). In the meantime, I work closely with [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), and [Mr. Chao TANG](https://mkt1412.github.io/).
+Hi there, I am Jingwen YU (中文名：于靖文), a Ph.D. candidate at [Cheng Kar-Shun Robotics Institute (CKSRI)](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://eee.sustech.edu.cn/?view=%E5%BC%A0%E5%AE%8F&jsid=18&lang=en). I work closely with [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), and [Mr. Chao TANG](https://mkt1412.github.io/). I was with the Intelligent Autonomous Driving Center (IADC) and [RAM-Lab](https://ram-lab.com/), led by Prof. [Ming LIU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LIU-Ming/eelium), where I got the chance to work on autonomous vehicles and quadruped robots. Besides, I am also interested in task-oriented grasping, check out the [projects section](/projects/) for more details.
 
-I teach robots to **locate** themsleves in changing environments with focuses on:
-- Visual Place Recognition (Loop Closure Detection)
-- Visual Localization and Image Matching under changing environments
-- Lifelong SLAM
-
-Besides, I have experience working on autonomous vehicles (advised by Prof. Ming LIU), quadruped robots, and task-oriented grasping, check out my projects for more.
+Now, I teach robots to **locate** themselves in changing environments, focusing on:
+- Visual Place Recognition / Loop Closure Detection
+- Visual Localization and Image Matching
+- Visual SLAM
 
 Reach out if you are interested in my research!
 
 News
 ======
+- *Jul/2024* : 🎉 Jiayi Yang (杨佳怡) and Yongqi Shi (施永祺) graduated from SUSTech and will be going to UTokyo and Duke University. They completed their final-year projects on loop closure verification with me.
+
 - *Jun/2024* : 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024. Stay tuned for the code.
 
 - *Apr/2024* : 🎉 Our dataset [FusionPortableV2](https://arxiv.org/abs/2404.08563) is released on arxiv! Check out our [website](https://fusionportable.github.io/dataset/fusionportable_v2/) see how can FPV2 boost your research toward Generalized SLAM.
@@ -81,11 +81,11 @@ Full publication list is available on [google scholar](https://scholar.google.co
               Chao Tang, <strong>Jingwen Yu</strong>, Weinan Chen, Bingyi Xia, Hong Zhang
             <br>
             <em>IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022.</em><br>
-            <a href="https://ieeexplore.ieee.org/abstract/document/9981960">Paper</a>
+            <a href="https://ieeexplore.ieee.org/abstract/document/9981960"><img src="https://img.shields.io/badge/IEEE/RSJ-Paper-004088"></a>
             <!-- <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a> -->
             <!-- <a href="https://github.com/fusionportable"><img alt="Code" src="https://img.shields.io/github/stars/fusionportable"></a> -->
-            <a href="https://docs.google.com/presentation/d/10UzGuVYANGRN6nSMplZWPKoEPs4NUu-XantlLYUSQsg/edit#slide=id.g14b6bc499f4_4_35">Slides</a>
-            <a href="https://drive.google.com/file/d/1wL3XmJt_-VYIq7cO1lMo0I09TyBVkuGw/view">Video</a>
+            <a href="https://docs.google.com/presentation/d/10UzGuVYANGRN6nSMplZWPKoEPs4NUu-XantlLYUSQsg/edit#slide=id.g14b6bc499f4_4_35"><img src="https://img.shields.io/badge/Slides-grey"></a>
+            <a href="https://drive.google.com/file/d/1wL3XmJt_-VYIq7cO1lMo0I09TyBVkuGw/view"><img src="https://img.shields.io/badge/Video-grey"></a>
           </td>
         </tr>
     </table>
@@ -105,4 +105,16 @@ Education
 
 Academic Services
 ======
-Reviewer of IV 2022, IV 2023, ICRA 2024, IROS 2024
+- IEEE ICRA 2024 Reviewer
+- IEEE/RSJ IROS 2024 Reviewer
+- IEEE Intelligent Vehicles Symposium 2022, 2023 Reviewer
+- IEEE ICRA 2021 Organizing Committee & Outstanding Volunteer
+- MICCAI 2018 Volunteer
+
+Teaching
+======
+I have always enjoyed teaching since my undergraduate.
+- Graduate Teaching Assistant, HKUST
+  - ELEC3120 Computer Communication Network
+- Undergraduate Teaching Assistant, SUSTech
+  - EE346 Mobile Robot Navigation
