@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/  
+
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=fu52r0cAAAAJ&hl=zh-CN"
-
-  - title: "Projects"
-    url: /projects/    
 
   # - title: "Teaching"
   #   url: /teaching/    
