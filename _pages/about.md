@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I am Jingwen YU (中文名：于靖文), a Ph.D. candidate at [CKSRI](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robototics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://eee.sustech.edu.cn/?view=%E5%BC%A0%E5%AE%8F&jsid=18&lang=en). In the meantime, I work closely with [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), and [Mr. Chao TANG](https://mkt1412.github.io/).
+Hi there, I am Jingwen YU (中文名：于靖文), a Ph.D. candidate at [Cheng Kar-Shun Robotics Institute (CKSRI)](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robototics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://eee.sustech.edu.cn/?view=%E5%BC%A0%E5%AE%8F&jsid=18&lang=en). In the meantime, I work closely with [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), and [Mr. Chao TANG](https://mkt1412.github.io/).
 
 I teach robots to **locate** themsleves in changing environments with focuses on:
 - Visual Place Recognition (Loop Closure Detection)
 - Visual Localization and Image Matching under changing environments
 - Lifelong SLAM
 
-Besides, I have experiences working on autonomous vechilces, quadruped robots, and task-oriented grasping, check out my projects for more.
+Besides, I have experience working on autonomous vehicles (advised by Prof. Ming LIU), quadruped robots, and task-oriented grasping, check out my projects for more.
 
 Reach out if you are interested in my research!
 
@@ -23,19 +23,6 @@ News
 - *Jun/2024* : 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024. Stay tuned for the code.
 
 - *Apr/2024* : 🎉 Our dataset [FusionPortableV2](https://arxiv.org/abs/2404.08563) is released on arxiv! Check out our [website](https://fusionportable.github.io/dataset/fusionportable_v2/) see how can FPV2 boost your research toward Generalized SLAM.
-
-Education
-======
-- Hong Kong University of Science and Technology, Sep, 2021-present
-  - Ph.D. Candidate in Electronic and Computer Engineering
-
-- Southern University of Science and Technology, Sep, 2017- Jun, 2021
-  - B.Eng. in Electronic and Electrical Engineering (with Magna Cum Laude)
-  - National Scholarship of China
-
-- National University of Singapore, Jun, 2019 - Aug, 2019
-  - Undergraduate Visiting Student
-
 
 Selected Publication:
 ======
@@ -103,6 +90,18 @@ Full publication list is available on [google scholar](https://scholar.google.co
         </tr>
     </table>
 </html>
+
+Education
+======
+- Hong Kong University of Science and Technology, Sep, 2021-present
+  - Ph.D. Candidate in Electronic and Computer Engineering
+
+- Southern University of Science and Technology, Sep, 2017- Jun, 2021
+  - B.Eng. in Electronic and Electrical Engineering (with Magna Cum Laude)
+  - National Scholarship of China
+
+- National University of Singapore, Jun, 2019 - Aug, 2019
+  - Undergraduate Visiting Student
 
 Academic Services
 ======
