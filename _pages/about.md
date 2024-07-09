@@ -63,8 +63,8 @@ Full publication list is available on [google scholar](https://scholar.google.co
           <em>Under Review</em><br>
           <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
           <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
-          <a href="https://github.com/fusionportable"><img alt="Code" src="https://img.shields.io/github/stars/fusionportable"></a>
           <a href="https://fusionportable.github.io/dataset/fusionportable_v2/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
+          <a href="https://github.com/fusionportable"><img alt="Code" src="https://img.shields.io/github/stars/fusionportable"></a>
           <!-- <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
         </td>
       </tr>
