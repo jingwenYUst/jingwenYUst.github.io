@@ -80,7 +80,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
             <br>
               Chao Tang, <strong>Jingwen Yu</strong>, Weinan Chen, Bingyi Xia, Hong Zhang
             <br>
-            <em>Under Review</em><br>
+            <em>IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022.</em><br>
             <a href="https://ieeexplore.ieee.org/abstract/document/9981960">Paper</a>
             <!-- <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a> -->
             <!-- <a href="https://github.com/fusionportable"><img alt="Code" src="https://img.shields.io/github/stars/fusionportable"></a> -->
