@@ -20,7 +20,7 @@ News
 ======
 - *Jul/2024* : 🎉 Jiayi Yang (杨佳怡) and Yongqi Shi (施永祺) graduated from SUSTech and will be going to UTokyo and Duke University. They completed their final-year projects on loop closure verification with me.
 
-- *Jun/2024* : 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024. Stay tuned for the code.
+- *Jun/2024* : 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024. [Arxiv](https://arxiv.org/abs/2407.11736), [Code](https://github.com/jarvisyjw/GV-Bench).
 
 - *Apr/2024* : 🎉 Our dataset [FusionPortableV2](https://arxiv.org/abs/2404.08563) is released on arxiv! Check out our [website](https://fusionportable.github.io/dataset/fusionportable_v2/) see how can FPV2 boost your research toward Generalized SLAM.
 
@@ -38,11 +38,11 @@ Full publication list is available on [google scholar](https://scholar.google.co
                 <papertitle>GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection
                 </papertitle>
               <br>
-                <strong>Jingwen Yu</strong>, Yu, Hanjing Ye, Jianhao Jiao, Ping Tan, Hong Zhang
+                <strong>Jingwen Yu</strong>, Hanjing Ye, Jianhao Jiao, Ping Tan, Hong Zhang
               <br>
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.</em><br>
               <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
-              <!-- <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a> -->
+              <a href="https://arxiv.org/abs/2407.11736"><img src="https://img.shields.io/badge/ArXiv-2407.11736-004088.svg"/></a>
               <a href="https://github.com/jarvisyjw/GV-Bench"><img alt="Code" src="https://img.shields.io/github/stars/jarvisyjw/GV-Bench" /></a>
               <!-- <a href="https://youtu.be/VtQGvuDZSec"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a> -->
               <!-- <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
