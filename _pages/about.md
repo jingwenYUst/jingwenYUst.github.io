@@ -43,8 +43,8 @@ Full publication list is available on [google scholar](https://scholar.google.co
               <em>IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.</em><br>
               <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
               <a href="https://arxiv.org/abs/2407.11736"><img src="https://img.shields.io/badge/ArXiv-2407.11736-004088.svg"/></a>
+              <a href="https://jarvisyjw.github.io/GV-Bench/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
               <a href="https://github.com/jarvisyjw/GV-Bench"><img alt="Code" src="https://img.shields.io/github/stars/jarvisyjw/GV-Bench" /></a>
-              <a href="https://jingwenyust.github.io/_projects/GV-Bench/index.html"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
               <!-- <a href="https://youtu.be/VtQGvuDZSec"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a> -->
               <!-- <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
             </td>
