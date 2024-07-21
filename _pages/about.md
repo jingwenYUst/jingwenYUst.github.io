@@ -27,8 +27,9 @@ News
 Selected Publication:
 ======
 Full publication list is available on [google scholar](https://scholar.google.com/citations?user=fu52r0cAAAAJ&hl=zh-CN).
-
+<!-- ## Loop Closure / Place Recognition Verification -->
 <html>
+  <h3>Verification of Loop Closure Detection / Place Recognition</h3>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -50,6 +51,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
             </td>
           </tr>
     </table>
+  <h3>Multi-Sensor Fusion SLAM</h3>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
       <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
         <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -70,26 +72,27 @@ Full publication list is available on [google scholar](https://scholar.google.co
         </td>
       </tr>
     </table>
-      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-        <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-          <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-            <img src="../images/grasping.png" alt="hpp" style="border-style: none" >
-          </td>
-          <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <papertitle>Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks
-              </papertitle>
-            <br>
-              Chao Tang, <strong>Jingwen Yu</strong>, Weinan Chen, Bingyi Xia, Hong Zhang
-            <br>
-            <em>IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022.</em><br>
-            <a href="https://ieeexplore.ieee.org/abstract/document/9981960"><img src="https://img.shields.io/badge/IEEE/RSJ-Paper-004088"></a>
-            <!-- <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a> -->
-            <!-- <a href="https://github.com/fusionportable"><img alt="Code" src="https://img.shields.io/github/stars/fusionportable"></a> -->
-            <a href="https://docs.google.com/presentation/d/10UzGuVYANGRN6nSMplZWPKoEPs4NUu-XantlLYUSQsg/edit#slide=id.g14b6bc499f4_4_35"><img src="https://img.shields.io/badge/Slides-grey"></a>
-            <a href="https://drive.google.com/file/d/1wL3XmJt_-VYIq7cO1lMo0I09TyBVkuGw/view"><img src="https://img.shields.io/badge/Video-grey"></a>
-          </td>
-        </tr>
-    </table>
+  <h3>Task-Oriented Grasping</h3>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+        <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+          <img src="../images/grasping.png" alt="hpp" style="border-style: none" >
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <papertitle>Relationship Oriented Semantic Scene Understanding for Daily Manipulation Tasks
+            </papertitle>
+          <br>
+            Chao Tang, <strong>Jingwen Yu</strong>, Weinan Chen, Bingyi Xia, Hong Zhang
+          <br>
+          <em>IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022.</em><br>
+          <a href="https://ieeexplore.ieee.org/abstract/document/9981960"><img src="https://img.shields.io/badge/IEEE/RSJ-Paper-004088"></a>
+          <!-- <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a> -->
+          <!-- <a href="https://github.com/fusionportable"><img alt="Code" src="https://img.shields.io/github/stars/fusionportable"></a> -->
+          <a href="https://docs.google.com/presentation/d/10UzGuVYANGRN6nSMplZWPKoEPs4NUu-XantlLYUSQsg/edit#slide=id.g14b6bc499f4_4_35"><img src="https://img.shields.io/badge/Slides-grey"></a>
+          <a href="https://drive.google.com/file/d/1wL3XmJt_-VYIq7cO1lMo0I09TyBVkuGw/view"><img src="https://img.shields.io/badge/Video-grey"></a>
+        </td>
+      </tr>
+  </table>
 </html>
 
 Education
@@ -98,8 +101,8 @@ Education
   - Ph.D. Candidate in Electronic and Computer Engineering
 
 - Southern University of Science and Technology, Sep, 2017- Jun, 2021
-  - B.Eng. in Electronic and Electrical Engineering (with Magna Cum Laude)
-  - National Scholarship of China
+  - B.Eng. in Electronic and Electrical Engineering **(with Magna Cum Laude)**
+  - **National Scholarship of China**
 
 - National University of Singapore, Jun, 2019 - Aug, 2019
   - Undergraduate Visiting Student
