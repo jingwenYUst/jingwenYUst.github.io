@@ -1,6 +1,10 @@
 # Ignore the contents of the _site directory
 _site/
 
+# Ignore macosx junk file
+.DS_Store
+*/.DS_Store
+
 # Ignore the directory for local files during development
 local/
 
