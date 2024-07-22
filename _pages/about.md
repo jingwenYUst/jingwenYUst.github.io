@@ -46,6 +46,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
               <a href="https://arxiv.org/abs/2407.11736"><img src="https://img.shields.io/badge/ArXiv-2407.11736-004088.svg"/></a>
               <a href="https://jarvisyjw.github.io/GV-Bench/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
               <a href="https://github.com/jarvisyjw/GV-Bench"><img alt="Code" src="https://img.shields.io/github/stars/jarvisyjw/GV-Bench" /></a>
+              <a href="https://mp.weixin.qq.com/s/edUw7vLep0zmve0Uj3IzkQ"><img alt="Static Badge" src="https://img.shields.io/badge/中文介绍（by 3D视觉之心）-blue?style=flat"></a>
               <!-- <a href="https://youtu.be/VtQGvuDZSec"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a> -->
               <!-- <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
             </td>
@@ -68,7 +69,8 @@ Full publication list is available on [google scholar](https://scholar.google.co
           <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
           <a href="https://fusionportable.github.io/dataset/fusionportable_v2/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
           <a href="https://github.com/fusionportable"><img alt="Code" src="https://img.shields.io/github/stars/fusionportable"></a>
-          <!-- <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
+          <a href="https://www.bilibili.com/video/BV1YT421m7VG/?vd_source=d3db6b42a5234397edfd9fe138b66f53"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+          <a href="https://mp.weixin.qq.com/s/ltE1skOC4Bb1ECUh4PChNA"><img alt="Static Badge" src="https://img.shields.io/badge/中文介绍（by 自动驾驶专栏）-blue?style=flat"></a>
         </td>
       </tr>
     </table>
