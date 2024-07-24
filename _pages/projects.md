@@ -35,7 +35,7 @@ This huge project has result in two publications so far, which we call FPV1 and 
 The FPV2 focuses on scalable environments comparing to FPV1. We additionally set up a high-speed vehicle platform to collect the data on the street of Hong Kong.
 
 <div style="text-align: center;">
-<img src="../images/vehicle.JPG" alt="vehicle" width="600">
+<img src="../images/vehicle_compressed.JPG" alt="vehicle" width="600">
 <figcaption>Me (left) and Xupeng XIE (right) on one of the data collection platform. Shot in front of Tower C, HKUST</figcaption>
 </div>
 
