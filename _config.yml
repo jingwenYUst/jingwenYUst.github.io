@@ -21,7 +21,7 @@ repository               : "jingwenYUst/jingwenYUst.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile_compressed.jpeg"
   name             : "Jingwen YU (于靖文)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Robotics @HKUST"
