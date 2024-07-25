@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jingwen YU's Site"
+title                    : "Jingwen YU's site"
 title_separator          : "-"
 name                     : &name "Jingwen YU"
 description              : &description "PhD at HKUST"
