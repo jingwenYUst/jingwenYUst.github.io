@@ -99,10 +99,10 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 Education
 ======
-- Hong Kong University of Science and Technology, Sep, 2021-present
+- Hong Kong University of Science and Technology, Sept, 2021-present
   - Ph.D. Candidate in Electronic and Computer Engineering
 
-- Southern University of Science and Technology, Sep, 2017- Jun, 2021
+- Southern University of Science and Technology, Sept, 2017- Jun, 2021
   - B.Eng. in Electronic and Electrical Engineering **(with Magna Cum Laude)**
   - **National Scholarship of China (0.2% Nationwide)**
 
