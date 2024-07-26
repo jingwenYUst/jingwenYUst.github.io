@@ -104,7 +104,7 @@ Education
 
 - Southern University of Science and Technology, Sep, 2017- Jun, 2021
   - B.Eng. in Electronic and Electrical Engineering **(with Magna Cum Laude)**
-  - **National Scholarship of China 0.2% Nationwide**
+  - **National Scholarship of China (0.2% Nationwide)**
 
 - National University of Singapore, Jun, 2019 - Aug, 2019 (Visiting Student)
   <!-- - Undergraduate Visiting Student -->
