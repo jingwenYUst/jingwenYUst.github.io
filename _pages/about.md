@@ -106,8 +106,8 @@ Education
   - B.Eng. in Electronic and Electrical Engineering **(with Magna Cum Laude)**
   - **National Scholarship of China**
 
-- National University of Singapore, Jun, 2019 - Aug, 2019
-  - Undergraduate Visiting Student
+- National University of Singapore, Jun, 2019 - Aug, 2019 (Visiting Student)
+  <!-- - Undergraduate Visiting Student -->
 
 - High School Attached To Shandong Normal University, Sept, 2014 - Jun, 2017
 
