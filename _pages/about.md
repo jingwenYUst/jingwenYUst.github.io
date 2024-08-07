@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Jingwen Yu"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
