@@ -67,9 +67,35 @@ This project aims at deploying a quadrupedal robot for indoor “last mile” de
 <img src="../images/mapping_cyt.gif" alt="quadruped" width="600">
 <figcaption>Live localization and delivery. Shot at 2nd floor of CYT Building, HKUST</figcaption>
 </div>
+<p></p>
 
+HKUST PQE Report Template
+======
+HKUST Ph.D. Qualification Exam (PQE) template for Ph.D., especially for ECE 2022 and later. If you are from HKUST and Dept. of ECE, you can checkout the latex template that I modified from the previous member of my group Dr. Lei Tai.
 
-
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+        <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+          <img src="../images/pqe.png" alt="hpp" style="border-style: none" >
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+          <papertitle>Vision-Based Localization and Map Update for Long-Term Navigation in Changing Environments
+          </papertitle>
+          <br>
+            Jingwen Yu
+          <br>Supervisor: Prof. Ming Liu,
+           Co-supervisor: Prof. Hong Zhang
+          <br>
+          Examination Committe: Prof. Shaojie Shen, Prof. Ling Shi, and Prof. Yajing Shen
+          <!-- <em>Under Review</em><br> -->
+          <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
+          <!-- <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a> -->
+          <!-- <a href="https://fusionportable.github.io/dataset/fusionportable_v2/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a> -->
+          <br>
+          <a href="https://github.com/jarvisyjw/HKUST_latex_PQE_2022"><img alt="Code" src="https://img.shields.io/github/stars/jarvisyjw/HKUST_latex_PQE_2022"></a>
+        </td>
+      </tr>
+    </table>
 
 
 
