@@ -9,7 +9,7 @@
 {% if page.title and page.author_profile != true %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% elsif page.title and page.author_profile == true %}
-  {% assign seo_title = "Jingwen YU (于靖文), PhD Candidate" %}
+  {% assign seo_title = "Jingwen YU, PhD Candidate" %}
 {% endif %}
 
 {% if seo_title %}
