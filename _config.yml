@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jingwen YU, PhD at HKUST"
+title                    : "Jingwen YU, PhD"
 title_separator          : "-"
 name                     : &name "Jingwen YU"
 description              : &description "PhD at HKUST"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_compressed.jpeg"
   name             : "Jingwen YU (于靖文)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Robotics @HKUST \nAffiliated with RCV @SUSTech"
+  bio              : "Ph.D. in Robotics @HKUST and Affiliated with RCV @SUSTech"
   location         : # ""
   employer         : "Hong Kong SAR, China"
   uri              : # URL
