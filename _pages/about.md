@@ -18,7 +18,7 @@ Reach out if you are interested in my research!
 
 News
 ======
-- *Sept/2024*: 🎉🎉 [FusionPortableV2](https://arxiv.org/abs/2404.08563) is accepted to IJRR!!
+- *Sept/2024*: 🎉🎉🎉 [FusionPortableV2](https://arxiv.org/abs/2404.08563) is accepted to IJRR!!
 
 - *Jul/2024* : 🎉 Jiayi Yang (杨佳怡) and Yongqi Shi (施永祺) graduated from SUSTech and will be going to UTokyo and Duke University. They completed their final-year projects on loop closure verification with me.
 
