@@ -18,6 +18,8 @@ Reach out if you are interested in my research!
 
 News
 ======
+- *Sept/2024*: 🎉🎉 [FusionPortableV2](https://arxiv.org/abs/2404.08563) is accepted to IJRR!!
+
 - *Jul/2024* : 🎉 Jiayi Yang (杨佳怡) and Yongqi Shi (施永祺) graduated from SUSTech and will be going to UTokyo and Duke University. They completed their final-year projects on loop closure verification with me.
 
 - *Jun/2024* : 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024. [Arxiv](https://arxiv.org/abs/2407.11736), [Code](https://github.com/jarvisyjw/GV-Bench).
@@ -64,7 +66,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
           <br>
             Hexiang Wei, Jianhao Jiao, Xiangcheng Hu, <strong>Jingwen Yu</strong>, Xupeng Xie, Jin Wu, Yilong Zhu, Yuxuan Liu, Lujia Wang, Ming Liu
           <br>
-          <em>Under Review</em><br>
+          <em>International Journal of Robotics Research</em><br>
           <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
           <a href="https://arxiv.org/abs/2404.08563"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
           <a href="https://fusionportable.github.io/dataset/fusionportable_v2/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
