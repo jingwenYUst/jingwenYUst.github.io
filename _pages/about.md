@@ -114,6 +114,7 @@ Education
 
 Academic Services
 ======
+- IEEE TASE Reviewer
 - IEEE ICRA 2024 Reviewer
 - IEEE/RSJ IROS 2024 Reviewer
 - IEEE Intelligent Vehicles Symposium 2022, 2023 Reviewer
@@ -123,7 +124,7 @@ Academic Services
 Teaching
 ======
 I have always enjoyed teaching since my undergraduate.
-- Graduate Teaching Assistant, HKUST
+- Graduate Teaching Assistant, HKUST, 2022-2023
   - ELEC3120 Computer Communication Network
-- Undergraduate Teaching Assistant, SUSTech
+- Undergraduate Teaching Assistant, SUSTech, 2020-2021
   - EE346 Mobile Robot Navigation
