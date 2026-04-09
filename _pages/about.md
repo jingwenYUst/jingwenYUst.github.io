@@ -18,13 +18,44 @@ Reach out if you are interested in my research!
 
 News
 ======
-- *Sept/2024*: 🎉🎉🎉 [FusionPortableV2](https://arxiv.org/abs/2404.08563) is accepted to IJRR!!
 
-- *Jul/2024* : 🎉 Jiayi Yang (杨佳怡) and Yongqi Shi (施永祺) graduated from SUSTech and will be going to UTokyo and Duke University. They completed their final-year projects on loop closure verification with me.
 
-- *Jun/2024* : 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024. [Arxiv](https://arxiv.org/abs/2407.11736), [Code](https://github.com/jarvisyjw/GV-Bench).
+<div style="max-height: 220px; overflow-y: auto; padding-right: 8px; border-left: 3px solid #e6e6e6; padding-left: 12px;">
+  <ul style="margin-top: 0; margin-bottom: 0;">
+    <li><Strong>April/2026</strong>: 🎉 Start developing a ArXiv daily paper reader, please check out the Daily Paper Reader page on the home page.</li>
+    <li><strong>March/2026</strong>: 🎉🎉🎉 TPT-Bench is accepted to IJRR! Check our <a href="https://medlartea.github.io/tpt-bench/"> project page</a> for more details.</li>
+    <li><strong>Oct/2025</strong>: 🎉🎉🎉 OpenNavMap won best paper award on <a href="https://adacompnus.github.io/open-world-navigation-25/?utm_source=chatgpt.com">IROS2025 OWN Workshop</a>.</li>
+    <li><strong>Sept/2024</strong>: 🎉🎉🎉 <a href="https://arxiv.org/abs/2404.08563">FusionPortableV2</a> is accepted to IJRR!!</li>
+    <li><strong>Jul/2024</strong>: 🎉 Jiayi Yang (杨佳怡) and Yongqi Shi (施永祺) graduated from SUSTech and will be going to UTokyo and Duke University. They completed their final-year projects on loop closure verification with me.</li>
+    <li><strong>Jun/2024</strong>: 🎉 A paper "GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection" is accepted to IROS 2024. <a href="https://arxiv.org/abs/2407.11736">Arxiv</a>, <a href="https://github.com/jarvisyjw/GV-Bench">Code</a>.</li>
+    <li><strong>Apr/2024</strong>: 🎉 Our dataset <a href="https://arxiv.org/abs/2404.08563">FusionPortableV2</a> is released on arxiv! Check out our <a href="https://fusionportable.github.io/dataset/fusionportable_v2/">website</a> see how can FPV2 boost your research toward Generalized SLAM.</li>
+  </ul>
+</div>
 
-- *Apr/2024* : 🎉 Our dataset [FusionPortableV2](https://arxiv.org/abs/2404.08563) is released on arxiv! Check out our [website](https://fusionportable.github.io/dataset/fusionportable_v2/) see how can FPV2 boost your research toward Generalized SLAM.
+<em>Last update on April 9th, 2026.</em>
+
+Awards:
+======
+<html>
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+          <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <img src="../images/certificate_IROS2025_OWN.png" alt="hpp" style="border-style: none" >
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <papertitle>OPENNAVMAP: Multi-Session Structure-Free Topometric Mapping for Scalable Visual Navigation
+              </papertitle>
+            <br>
+            Jianhao Jiao, Changkun Liu, <strong>Jingwen Yu</strong>, Dimitrios Kanoulas
+            <br>
+            <em>Open World Navigation in Human-centric Environments (OWN), IEEE/RSJ International Conference on Intelligent Robots and Systems, 2025.</em><br>
+            <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
+            <a href="https://openreview.net/pdf?id=zmTTpkbrvv"><img src="https://img.shields.io/badge/ArXiv-2407.11736-004088.svg"/></a>
+            <a href="https://drive.google.com/file/d/1bFKZstoTOoO_OOAB6hvKeVK5O_q2e-zq/view"><img alt="video" src="https://img.shields.io/badge/Video-blue"/></a>
+          </td>
+        </tr>
+  </table>
+</html>
 
 Selected Publication:
 ======
@@ -117,8 +148,8 @@ Education
 Academic Services
 ======
 - IEEE TASE Reviewer
-- IEEE ICRA 2024 Reviewer
-- IEEE/RSJ IROS 2024 Reviewer
+- IEEE/RSJ IROS 2024, 2025, 2026 Reviewer
+- IEEE ICRA 2024, 2025 Reviewer
 - IEEE Intelligent Vehicles Symposium 2022, 2023 Reviewer
 - IEEE ICRA 2021 Organizing Committee & Outstanding Volunteer
 - MICCAI 2018 Volunteer
