@@ -22,6 +22,7 @@ News
 
 <div style="max-height: 220px; overflow-y: auto; padding-right: 8px; border-left: 3px solid #e6e6e6; padding-left: 12px;">
   <ul style="margin-top: 0; margin-bottom: 0;">
+  <li><Strong>June/2026</strong>: 🎉🎉🎉 Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation, is accepted to IROS 2026. Congrats to my co-first author Miss. Jiamin Zheng. Check out the <a href="https://arxiv.org/pdf/2604.18336"> Paper </a> for more details.</li>
   <li><Strong>June/2026</strong>: 🎉🎉🎉 TARIC: Memory-Augmented Traversability-Aware Outdoor VLN under Interrupted Semantic Cues, is accepted to RAL 2026. Congrats to Mr. Tianle ZENG. Check out the <a href="https://ieeexplore.ieee.org/document/11578332"> Paper </a> for more details.</li>
     <li><Strong>June/2026</strong>: 🎉🎉🎉 VUOD:Versatile Unsupervised Outlier Detection via
 Exploiting Intrinsic Separability, is accepted to ECCV 2026. Congrats to Dr. Zhonghang LIU. Check out the <a href="https://zhliu-uod.github.io/VUOD/"> Project Page </a> for more details.</li>
