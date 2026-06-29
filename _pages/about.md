@@ -117,6 +117,32 @@ Full publication list is available on [google scholar](https://scholar.google.co
             </td>
           </tr>
     </table>
+  <h3>Robot Navigation</h3>
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+        <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+          <img src="../images/glass-recon.jpg" alt="hpp" style="border-style: none" >
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <papertitle>Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation
+            </papertitle>
+          <br>
+            Jiamin Zheng<sup>*</sup>, <strong>Jingwen Yu<sup>*</sup></strong>, Guangcheng Chen, Hong Zhang
+          <br>
+            <sup>*</sup> Equal contribution
+          <br>
+          <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.</em><br>
+          <!-- <a href="https://ieeexplore.ieee.org/document/10243098">Paper</a> / -->
+          <a href="https://arxiv.org/pdf/2604.18336"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
+          <!-- <a href="https://fusionportable.github.io/dataset/fusionportable_v2/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a> -->
+          <a href="https://github.com/JMamie/GlassRecon"><img alt="Code" src="https://img.shields.io/github/stars/JMamie/GlassRecon"></a>
+          <!-- <a href="https://www.bilibili.com/video/BV1YT421m7VG/?vd_source=d3db6b42a5234397edfd9fe138b66f53"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
+          <!-- <a href="https://mp.weixin.qq.com/s/ltE1skOC4Bb1ECUh4PChNA"><img alt="Static Badge" src="https://img.shields.io/badge/中文介绍（by 自动驾驶专栏）-blue?style=flat"></a> -->
+        </td>
+      </tr>
+    </table>
+
+
   <h3>Datasets and Benchmarks</h3>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
       <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
@@ -159,6 +185,10 @@ Full publication list is available on [google scholar](https://scholar.google.co
         </td>
       </tr>
     </table>
+
+  
+
+
   <h3>Task-Oriented Grasping</h3>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
       <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
