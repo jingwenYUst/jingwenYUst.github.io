@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I am Jingwen YU (中文名：于靖文), a Ph.D. candidate at [Cheng Kar-Shun Robotics Institute (CKSRI)](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://eee.sustech.edu.cn/?view=%E5%BC%A0%E5%AE%8F&jsid=18&lang=en). I work closely with [Prof. Jiankun WANG](https://jkwang1992.github.io/), [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Dr. Changkun LIU](https://lck666666.github.io/), [Dr. Zhonghang LIU](https://scholar.google.com/citations?user=I1Waf2QAAAAJ&hl=en&oi=ao), [Dr. Chao TANG](https://mkt1412.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), and [Miss Lu HUANG](https://scholar.google.com/citations?user=EfOws7UAAAAJ&hl=zh-CN). I was with the Intelligent Autonomous Driving Center (IADC) and [RAM-Lab](https://ram-lab.com/), led by Prof. [Ming LIU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LIU-Ming/eelium), where I got the chance to work on autonomous vehicles and quadruped robots. Besides, I am also interested in task-oriented grasping, check out the [projects section](/projects/) for more details. I earned my B.Eng. of Information Engineering from Dept. of Electronic and Electrical Engineering under advising from Chair Prof. Hong Zhang and [Prof. Yajun YU](https://www.eitech.edu.cn/?tid=142&p=teacher).
+Hi there, I am Jingwen YU (中文名：于靖文), a Ph.D. candidate at [Cheng Kar-Shun Robotics Institute (CKSRI)](https://ri.hkust.edu.hk/), Hong Kong University of Science and Technology (HKUST) and affiliated with [Shenzhen Key Laboratory of Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech). I am co-supervised by [Prof. Ping TAN](https://ece.hkust.edu.hk/pingtan) and [Chair Prof. Hong ZHANG (SUSTech)](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). I work closely with [Prof. Jiankun WANG](https://jkwang1992.github.io/), [Dr. Jianhao JIAO](https://gogojjh.github.io/), [Dr. Hengli WANG](https://hlwang1124.github.io/), [Dr. Changkun LIU](https://lck666666.github.io/), [Dr. Zhonghang LIU](https://scholar.google.com/citations?user=I1Waf2QAAAAJ&hl=en&oi=ao), [Dr. Chao TANG](https://mkt1412.github.io/), [Mr. Hanjing YE](https://medlartea.github.io/), and [Miss Lu HUANG](https://scholar.google.com/citations?user=EfOws7UAAAAJ&hl=zh-CN). I was with the Intelligent Autonomous Driving Center (IADC) and [RAM-Lab](https://ram-lab.com/), led by Prof. [Ming LIU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LIU-Ming/eelium), where I got the chance to work on autonomous vehicles and quadruped robots. Besides, I am also interested in task-oriented grasping, check out the [projects section](/projects/) for more details. I earned my B.Eng. of Information Engineering from Dept. of Electronic and Electrical Engineering under advising from Chair Prof. Hong Zhang and [Prof. Yajun YU](https://www.eitech.edu.cn/?tid=142&p=teacher).
 
 Now, I teach robots to **locate** themselves in changing environments, focusing on:
 - Visual Place Recognition / Loop Closure Detection
@@ -49,7 +49,7 @@ Awards:
             <img src="../images/certificate_IROS2025_OWN.png" alt="hpp" style="border-style: none" >
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <papertitle>OPENNAVMAP: Multi-Session Structure-Free Topometric Mapping for Scalable Visual Navigation
+              <papertitle><strong>OPENNAVMAP</strong>: Multi-Session Structure-Free Topometric Mapping for Scalable Visual Navigation
               </papertitle>
             <br>
             Jianhao Jiao, Changkun Liu, <strong>Jingwen Yu</strong>, Dimitrios Kanoulas
@@ -73,7 +73,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
               <img src="../images/gvbench.jpg" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection
+                <papertitle><strong>GV-Bench</strong>: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection
                 </papertitle>
               <br>
                 <strong>Jingwen Yu</strong>, Hanjing Ye, Jianhao Jiao, Ping Tan, and Hong Zhang
@@ -94,7 +94,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
               <img src="../images/rover.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments
+                <papertitle><strong>ROVER</strong>: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments
                 </papertitle>
               <br>
                 <strong>Jingwen Yu</strong>, Jiayi Yang, Jianhao Jiao, Anjun Hu, Zhonghang Liu, Jiankun Wang, Ping Tan, and Hong Zhang
@@ -104,6 +104,24 @@ Full publication list is available on [google scholar](https://scholar.google.co
               <a href="https://ieeexplore.ieee.org/document/11482192/"><img src="https://img.shields.io/badge/IEEE/RSJ-Paper-004088"/></a>
               <a href="https://rover-lcv.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
               <a href="https://github.com/jarvisyjw/ROVER"><img alt="Code" src="https://img.shields.io/github/stars/jarvisyjw/ROVER" /></a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/VUOD_teasing_photo.jpg" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle><strong>VUOD</strong>: A Versatile Unsupervised Outlier Detection Framework for Natural, Industrial, Medical Images and Beyond
+                </papertitle>
+              <br>
+                Zhonghang Liu, Siyuan Chen, <strong>Jingwen Yu</strong>, Changshuo Wang, Kunyang Li, Jiangbo Lu
+              <br>
+              <em>European Conference on Computer Vision (ECCV), 2026.</em><br>
+              <!-- <a href="https://openreview.net/forum?id=fOsrQmB22K&referrer=%5BAuthor+Console%5D%28%2Fgroup%3Fid%3Dthecvf.com%2FECCV%2F2026%2FConference%2FAuthors%23your-submissions%29"><img src="https://img.shields.io/badge/ArXiv-2407.11736-004088.svg"/></a> -->
+              <a href="https://zhliu-uod.github.io/VUOD/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
+              <!-- <a href="https://github.com/zhliu-uod/VUOD"><img alt="Code" src="https://img.shields.io/github/stars/zhliu-uod/VUOD" /></a> -->
             </td>
           </tr>
     </table>
@@ -133,7 +151,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
           <img src="../images/vg-mapping.png" alt="hpp" style="border-style: none" >
         </td>
         <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-            <papertitle>VG-Mapping: Variation-aware Density Control for Online 3D Gaussian Mapping in Semi-static Scenes
+            <papertitle><strong>VG-Mapping</strong>: Variation-aware Density Control for Online 3D Gaussian Mapping in Semi-static Scenes
             </papertitle>
           <br>
             Yicheng He, <strong>Jingwen Yu</strong>, Guangcheng Chen, Hong Zhang
@@ -169,7 +187,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
           <img src="../images/fpv2.png" alt="hpp" style="border-style: none" >
         </td>
         <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-            <papertitle>FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments
+            <papertitle><strong>FusionPortableV2</strong>: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments
             </papertitle>
           <br>
             Hexiang Wei, Jianhao Jiao, Xiangcheng Hu, <strong>Jingwen Yu</strong>, Xupeng Xie, Jin Wu, Yilong Zhu, Yuxuan Liu, Lujia Wang, Ming Liu
@@ -189,7 +207,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
           <img src="../images/tpt-bench.png" alt="hpp" style="border-style: none" >
         </td>
         <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-            <papertitle>TPT-bench: A large-scale, long-term and robot-egocentric dataset for benchmarking target person tracking
+            <papertitle><strong>TPT-bench</strong>: A large-scale, long-term and robot-egocentric dataset for benchmarking target person tracking
             </papertitle>
           <br>
            Hanjing Ye, Yu Zhan, Weixi Situ, Guangcheng Chen, <strong> Jingwen Yu</strong>, Ziqi Zhao, Kuanqi Cai, Arash Ajoudani, Hong Zhang
