@@ -39,7 +39,7 @@ Exploiting Intrinsic Separability, is accepted to ECCV 2026. Congrats to Dr. Zho
   </ul>
 </div>
 
-<em>Last update on July 24, 2026.</em>
+<em>Last update on Sept. 06, 2026.</em>
 
 Awards:
 ======
