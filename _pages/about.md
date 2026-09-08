@@ -22,6 +22,9 @@ News
 
 <div style="max-height: 220px; overflow-y: auto; padding-right: 8px; border-left: 3px solid #e6e6e6; padding-left: 12px;">
   <ul style="margin-top: 0; margin-bottom: 0;">
+
+    <li><Strong>Sept/2026</strong>: 🎉🎉🎉 "Cross-Modality Diffusion for Descriptor Manifold Translation in Visible-Infrared Matching" is accepted to RA-L 2026, congrats to Mr. Zeng, Prof. Wu and all the co-authors. </li>
+    <li><Strong>Sept/2026</strong>: 🎉🎉🎉 Super excited to share that "Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation", on which Jianmin and I are co-first authors, has been nominated for the IROS 2026 Best Paper / Best Student Paper Award session! It is <strong><em>one of only 10 papers selected out of 1,933 (0.52%)</em></strong>.</li>
    <li><Strong>Sept/2026</strong>: 🎉🎉🎉 OpenNavMap is accepted to TRO 2026. Congrats to my Dr. Jianhao Jiao and Dr. Changkun Liu and etc. Check out the <a href="https://rpl-cs-ucl.github.io/OpenNavMap_page/"> Project Page </a> for more details.</li>
   <li><Strong>July/2026</strong>: 🎉🎉🎉 VG-Mapping: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping, is accepted to RA-L 2026. Congrats to Mr. Yicheng He. Check out the <a href="https://arxiv.org/pdf/2510.09962"> Paper </a> for more details.</li>
   <li><Strong>June/2026</strong>: 🎉🎉🎉 Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation, is accepted to IROS 2026. Congrats to my co-first author Miss. Jiamin Zheng. Check out the <a href="https://arxiv.org/pdf/2604.18336"> Paper </a> for more details.</li>
@@ -141,6 +144,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
             <sup>*</sup> Equal contribution
           <br>
           <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.</em><br>
+          <em><strong>Best paper finalist 10/1933 (Top 0.52%).</strong></em><br>          
           <a href="https://arxiv.org/pdf/2604.18336"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
           <a href="https://github.com/JMamie/GlassRecon"><img alt="Code" src="https://img.shields.io/github/stars/JMamie/GlassRecon"></a>
         </td>
