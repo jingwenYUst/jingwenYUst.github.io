@@ -149,6 +149,25 @@ Full publication list is available on [google scholar](https://scholar.google.co
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
       <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
         <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+          <img src="../images/tro_teaser2.gif" alt="hpp" style="border-style: none" >
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <papertitle>OpenNavMap: Structure-Free Topometric Mapping via Large-Scale Collaborative Localization
+            </papertitle>
+          <br>
+            Jianhao Jiao, Changkun Liu, <strong>Jingwen Yu</strong>, Boyi Liu, Qianyi Zhang, Yue Wang, Dimitrios Kanoulas
+          <br>
+          <em>IEEE Transactions on Robotics (T-RO), 2026</em><br>
+          <em>Best Paper Award at IROS 2025 Workshop: Open World Navigation in Human-centric Environments</em><br>
+          <a href="https://rpl-cs-ucl.github.io/OpenNavMap_page/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
+          <a href="https://arxiv.org/pdf/2604.18336"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
+          <a href="https://github.com/RPL-CS-UCL/OpenNavMap"><img alt="Code" src="https://img.shields.io/github/stars/RPL-CS-UCL/OpenNavMap"></a>
+        </td>
+      </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+        <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
           <img src="../images/vg-mapping.png" alt="hpp" style="border-style: none" >
         </td>
         <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
