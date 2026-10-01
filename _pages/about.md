@@ -42,12 +42,28 @@ Exploiting Intrinsic Separability, is accepted to ECCV 2026. Congrats to Dr. Zho
   </ul>
 </div>
 
-<em>Last update on Sept. 06, 2026.</em>
+<em>Last update on Oct. 01, 2026.</em>
 
 Awards:
 ======
 <html>
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <img src="../images/iros26_best_paper_finalist.jpg" alt="IROS 2026 Best Paper Finalist award" style="border-style: none" >
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <papertitle>Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation
+              </papertitle>
+            <br>
+            Jiamin Zheng<sup>*</sup>, <strong>Jingwen Yu<sup>*</sup></strong>, Guangcheng Chen, Hong Zhang
+            <br>
+            <sup>*</sup> Equal contribution
+            <br>
+            <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.</em><br>
+            <em><strong>Best Paper Finalist: 10/1933 (Top 0.52%).</strong></em><br>
+          </td>
+        </tr>
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
           <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
             <img src="../images/certificate_IROS2025_OWN.png" alt="hpp" style="border-style: none" >
@@ -58,7 +74,7 @@ Awards:
             <br>
             Jianhao Jiao, Changkun Liu, <strong>Jingwen Yu</strong>, Dimitrios Kanoulas
             <br>
-            <em>Open World Navigation in Human-centric Environments (OWN), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.</em><br>
+            <em><strong>Best Paper</strong> in Open World Navigation in Human-centric Environments (OWN), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.</em><br>
             <a href="https://openreview.net/pdf?id=zmTTpkbrvv"><img src="https://img.shields.io/badge/ArXiv-2407.11736-004088.svg"/></a>
             <a href="https://drive.google.com/file/d/1bFKZstoTOoO_OOAB6hvKeVK5O_q2e-zq/view"><img alt="video" src="https://img.shields.io/badge/Video-blue"/></a>
           </td>
