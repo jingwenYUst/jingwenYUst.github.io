@@ -50,7 +50,7 @@ Awards:
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr>
           <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-            <img src="../images/iros26_best_paper_finalist.jpg" alt="IROS 2026 Best Paper Finalist award" style="border-style: none" >
+            <img src="../images/iros2026-best-paper-finalist.png" alt="IROS 2026 Best Paper Finalist award" style="border-style: none" >
           </td>
           <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <papertitle>Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation
