@@ -161,7 +161,10 @@ Full publication list is available on [google scholar](https://scholar.google.co
           <br>
           <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.</em><br>
           <em><strong>Best paper finalist 10/1933 (Top 0.52%).</strong></em><br>          
-          <a href="https://arxiv.org/pdf/2604.18336"><img src="https://img.shields.io/badge/ArXiv-2403.10821-004088.svg"/></a>
+          <a href="/papers/glassrecon/"><img alt="Paper Page" src="https://img.shields.io/badge/Paper-Page-blue?style=flat"></a>
+          <a href="/papers/glassrecon/glassrecon-v3.pdf"><img alt="PDF" src="https://img.shields.io/badge/PDF-Download-brightgreen.svg"/></a>
+          <a href="https://arxiv.org/pdf/2604.18336"><img src="https://img.shields.io/badge/ArXiv-2604.18336-004088.svg"/></a>
+          <a href="https://jarvisyjw.github.io/GlassRecon/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
           <a href="https://github.com/JMamie/GlassRecon"><img alt="Code" src="https://img.shields.io/github/stars/JMamie/GlassRecon"></a>
         </td>
       </tr>

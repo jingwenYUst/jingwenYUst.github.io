@@ -1,0 +1,13 @@
+{% comment %}
+  Google Scholar / Highwire Press citation metadata.
+  Rendered only for pages that opt in with `scholar_meta: true` in front matter,
+  so no other page on the site receives these tags.
+{% endcomment %}
+{% include base_path %}
+
+<meta name="citation_title" content="{{ page.citation_title | escape_once }}">
+{% for citation_author in page.citation_authors %}
+<meta name="citation_author" content="{{ citation_author | escape_once }}">
+{% endfor %}
+<meta name="citation_publication_date" content="{{ page.citation_publication_date | escape_once }}">
+<meta name="citation_pdf_url" content="{{ site.url }}{{ site.baseurl }}{{ page.citation_pdf_path }}">
