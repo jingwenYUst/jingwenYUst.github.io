@@ -42,7 +42,7 @@ Exploiting Intrinsic Separability, is accepted to ECCV 2026. Congrats to Dr. Zho
   </ul>
 </div>
 
-<em>Last update on Oct. 01, 2026.</em>
+<em>Last update on Nov. 06, 2026.</em>
 
 Awards:
 ======
@@ -62,6 +62,22 @@ Awards:
             <br>
             <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026.</em><br>
             <em><strong>Best Paper Finalist: 10/1933 (Top 0.52%).</strong></em><br>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <a href="../images/RCAR2026_Final_List_Recognition_Paper138.pdf">
+              <img src="../images/RCAR2026_Final_List_Recognition_Paper138.png" alt="SPARC Best Paper Finalist certificate at IEEE RCAR 2026" style="border-style: none" >
+            </a>
+          </td>
+          <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <papertitle><strong>SPARC</strong>: Sparse Proximity Planning via Gabriel Graphs for Scalable Multi-Robot Target Coverage
+              </papertitle>
+            <br>
+            Pengyu Wang, <strong>Jingwen Yu</strong>, Chaoqun Wang, Jiankun Wang, Rui Song, and Max Q.-H. Meng
+            <br>
+            <em>IEEE International Conference on Real-time Computing and Robotics (RCAR), 2026.</em><br>
+            <em><strong>Best Paper Finalist.</strong></em><br>
           </td>
         </tr>
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
