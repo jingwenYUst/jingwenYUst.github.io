@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Paper to Website"
+  short_description: "Add an arXiv paper with authors and a PNG teaser"
+  default_prompt: "Use $add-paper to add this arXiv paper to my academic website: <arXiv URL>."
