@@ -126,7 +126,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
               <papertitle><strong>UniLoop</strong>: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation</papertitle><br>
               <strong>Jingwen Yu<sup>*</sup></strong>, Pengyu Wang<sup>*</sup>, Jin Wu, Weinan Chen, Ping Tan, and Hong Zhang<br>
               <sup>*</sup> Equal contribution<br>
-              <em>arXiv preprint, 2026.</em><br>
+              <em>IEEE International Conference on Robotics and Biomimetics (ROBIO), 2026.</em><br>
               <a href="https://arxiv.org/abs/2611.06378"><img alt="UniLoop paper on arXiv" src="https://img.shields.io/badge/ArXiv-2611.06378-004088.svg"/></a>
             </td>
           </tr>
