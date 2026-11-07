@@ -74,7 +74,9 @@ Awards:
               <papertitle><strong>SPARC</strong>: Sparse Proximity Planning via Gabriel Graphs for Scalable Multi-Robot Target Coverage
               </papertitle>
             <br>
-            Pengyu Wang, <strong>Jingwen Yu</strong>, Chaoqun Wang, Jiankun Wang, Rui Song, and Max Q.-H. Meng
+            Pengyu Wang<sup>*</sup>, <strong>Jingwen Yu<sup>*</sup></strong>, Chaoqun Wang, Jiankun Wang, Rui Song, and Max Q.-H. Meng
+            <br>
+            <sup>*</sup> Equal contribution
             <br>
             <em>IEEE International Conference on Real-time Computing and Robotics (RCAR), 2026.</em><br>
             <em><strong>Best Paper Finalist.</strong></em><br>
