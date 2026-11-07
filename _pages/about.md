@@ -156,7 +156,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
                 Zhonghang Liu, Siyuan Chen, <strong>Jingwen Yu</strong>, Changshuo Wang, Kunyang Li, Jiangbo Lu
               <br>
               <em>European Conference on Computer Vision (ECCV), 2026.</em><br>
-              <!-- <a href="https://openreview.net/forum?id=fOsrQmB22K&referrer=%5BAuthor+Console%5D%28%2Fgroup%3Fid%3Dthecvf.com%2FECCV%2F2026%2FConference%2FAuthors%23your-submissions%29"><img src="https://img.shields.io/badge/ArXiv-2407.11736-004088.svg"/></a> -->
+              <a href="https://link.springer.com/chapter/10.1007/978-3-032-37595-7_27"><img alt="Official ECCV paper on Springer" src="https://img.shields.io/badge/Paper-Springer-004088.svg"/></a>
               <a href="https://zhliu-uod.github.io/VUOD/"><img alt="Static Badge" src="https://img.shields.io/badge/Project-Page-blue?style=flat"></a>
               <!-- <a href="https://github.com/zhliu-uod/VUOD"><img alt="Code" src="https://img.shields.io/github/stars/zhliu-uod/VUOD" /></a> -->
             </td>
