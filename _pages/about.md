@@ -105,6 +105,33 @@ Full publication list is available on [google scholar](https://scholar.google.co
 <html>
   <h3>Verification of Loop Closure Detection / Place Recognition</h3>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/graph3r-teaser.png" alt="Graph3R teaser" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <papertitle><strong>Graph3R</strong>: Unifying View Graph Initialization with Feed-Forward Reconstruction</papertitle><br>
+              <strong>Jingwen Yu</strong>, Hengli Wang, Jianhao Jiao, Zhonghang Liu, Ping Tan, and Hong Zhang<br>
+              <em>arXiv preprint, 2026.</em><br>
+              <a href="https://arxiv.org/abs/2610.16272"><img alt="Graph3R paper on arXiv" src="https://img.shields.io/badge/ArXiv-2610.16272-004088.svg"/></a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/uniloop-teaser.png" alt="UniLoop teaser" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <papertitle><strong>UniLoop</strong>: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation</papertitle><br>
+              <strong>Jingwen Yu<sup>*</sup></strong>, Pengyu Wang<sup>*</sup>, Jin Wu, Weinan Chen, Ping Tan, and Hong Zhang<br>
+              <sup>*</sup> Equal contribution<br>
+              <em>arXiv preprint, 2026.</em><br>
+              <a href="https://arxiv.org/abs/2611.06378"><img alt="UniLoop paper on arXiv" src="https://img.shields.io/badge/ArXiv-2611.06378-004088.svg"/></a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/gvbench.jpg" alt="hpp" style="border-style: none" >
