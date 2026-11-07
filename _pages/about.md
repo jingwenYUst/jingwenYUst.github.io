@@ -92,9 +92,8 @@ Awards:
             <br>
             Jianhao Jiao, Changkun Liu, <strong>Jingwen Yu</strong>, Dimitrios Kanoulas
             <br>
-            <em><strong>Best Paper</strong> in Open World Navigation in Human-centric Environments (OWN), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.</em><br>
-            <a href="https://openreview.net/pdf?id=zmTTpkbrvv"><img src="https://img.shields.io/badge/ArXiv-2407.11736-004088.svg"/></a>
-            <a href="https://drive.google.com/file/d/1bFKZstoTOoO_OOAB6hvKeVK5O_q2e-zq/view"><img alt="video" src="https://img.shields.io/badge/Video-blue"/></a>
+            <em>Open World Navigation in Human-centric Environments (OWN) Workshop, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.</em><br>
+            <em><strong>Best Paper.</strong></em><br>
           </td>
         </tr>
   </table>
